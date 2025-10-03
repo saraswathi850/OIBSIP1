@@ -1,0 +1,1 @@
+A simple voice-controlled assistant built with Python.This assistant can:Respond to greetings like "Hello" with predefined replies,Tell you the current time and date,Search the web for information based on your voice queries.
